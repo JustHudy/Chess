@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Chess/ogl-2.1_branch/external/glfw-3.1.2/examples/CMakeLists.txt
+  CMake does not need to re-run because C:/Chess/tutorials/external/glfw-3.1.2/examples/CMakeFiles/generate.stamp is up-to-date.
+  particles.c
+  tinycthread.c
+  getopt.c
+  particles.vcxproj -> C:\Chess\tutorials\external\glfw-3.1.2\examples\Debug\particles.exe

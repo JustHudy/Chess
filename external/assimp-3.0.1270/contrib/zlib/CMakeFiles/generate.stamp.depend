@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Chess/ogl-2.1_branch/external/assimp-3.0.1270/contrib/zlib/CMakeLists.txt
+C:/Chess/tutorials/CMakeFiles/CheckTypeSize/OFF64_T.c
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckFunctionExists.c
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckTypeSize.c.in

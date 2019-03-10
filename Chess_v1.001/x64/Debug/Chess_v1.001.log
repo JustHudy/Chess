@@ -1,0 +1,93 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Chess_v1.001.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\chess\chess\chess_v1.001\controls.h(105): warning C4305: '-=': truncation from 'double' to 'float'
+c:\chess\chess\chess_v1.001\controls.h(108): warning C4305: '-=': truncation from 'double' to 'float'
+c:\chess\chess\chess_v1.001\controls.h(111): warning C4305: '+=': truncation from 'double' to 'float'
+c:\chess\chess\chess_v1.001\point.h(11): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\factory.h(62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\factory.h(67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\factory.h(72): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\factory.h(77): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\factory.h(82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\factory.h(87): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\chess\chess\chess_v1.001\scene.h(94): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\chess\chess\chess_v1.001\scene.h(94): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\chess\chess\chess_v1.001\scene.h(96): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\chess\chess\chess_v1.001\scene.h(96): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\chess\chess\chess_v1.001\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewDetachShader
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+Loader.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+main.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function "public: void __cdecl Scene::render(void)" (?render@Scene@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwGetWindowSize referenced in function "public: static void __cdecl Controls::computeMatricesFromInputs(void)" (?computeMatricesFromInputs@Controls@@SAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function "public: void __cdecl Scene::render(void)" (?render@Scene@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "public: static void __cdecl Controls::computeMatricesFromInputs(void)" (?computeMatricesFromInputs@Controls@@SAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwGetCursorPos referenced in function "void __cdecl mouse_button_callback(struct GLFWwindow *,int,int,int)" (?mouse_button_callback@@YAXPEAUGLFWwindow@@HHH@Z)
+main.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function "public: static void __cdecl Controls::computeMatricesFromInputs(void)" (?computeMatricesFromInputs@Controls@@SAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function "public: void __cdecl Scene::render(void)" (?render@Scene@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewDisableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol __imp___glewUniform3f
+main.obj : error LNK2001: unresolved external symbol __imp___glewUniform4f
+main.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewDeleteVertexArrays
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+main.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+GLEW_1130.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Chess\Chess\x64\Debug\Chess.exe : fatal error LNK1120: 44 unresolved externals

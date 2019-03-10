@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Chess/ogl-2.1_branch/external/glfw-3.1.2/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Chess/tutorials/external/glfw-3.1.2/tests/CMakeFiles/generate.stamp is up-to-date.
+  title.c
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(720,5): error MSB6003: Nie można uruchomić określonego pliku wykonywalnego zadania „link.exe”. Nie można odnaleźć części ścieżki „C:\Chess\tutorials\title.dir\Debug\title.tlog\link.command.1.tlog”.

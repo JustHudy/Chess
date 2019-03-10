@@ -1,0 +1,15 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material__1623.002
+Ns 47.058824
+Ka 0.137300 0.137300 0.137300
+Kd 0.137300 0.137300 0.137300
+Ks 0.970700 1.059300 1.190000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ka Map__0_Falloff.tga
+map_Kd Map__0_Falloff.tga
+refl Map__54_Missing_TextureMap.tga

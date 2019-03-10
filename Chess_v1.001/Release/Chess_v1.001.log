@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\paszk\desktop\chess__\chess_v1.001\KingController.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\KingController.h(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\KingController.h(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Scene.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Scene.h(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\paszk\desktop\chess__\chess_v1.001\Game.h(326): warning C4018: '<': signed/unsigned mismatch
+main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+main.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 1194 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chess_v1.001.vcxproj -> C:\Users\paszk\Desktop\Chess__\Release\Chess_v1.001.exe
+  Chess_v1.001.vcxproj -> C:\Users\paszk\Desktop\Chess__\Release\Chess_v1.001.pdb (Full PDB)

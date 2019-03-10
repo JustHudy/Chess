@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Chess/ogl-2.1_branch/external/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckTypeSize.cmake
